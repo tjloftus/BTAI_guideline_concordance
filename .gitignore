@@ -1,0 +1,13 @@
+# never commit NTDB data or row-level output
+*.csv
+*.xlsx
+*.parquet
+*.pkl
+results/
+analysis_performed_*/
+
+__pycache__/
+*.pyc
+.spyproject/
+.ipynb_checkpoints/
+.DS_Store

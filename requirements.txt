@@ -1,0 +1,10 @@
+# versions used for the published analysis
+numpy==2.1.3
+pandas==2.2.3
+lifelines==0.30.0
+scipy==1.15.3
+scikit-learn==1.6.1
+patsy==1.0.1
+statsmodels
+matplotlib
+openpyxl
